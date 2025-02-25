@@ -1,1 +1,1 @@
-nginx:latest crpi-9g53ky1wxlspshak.cn-shenzhen-personal.cr.aliyuncs.com/tianteng/tianteng/nginx:latest
+nginx:latest crpi-9g53ky1wxlspshak.cn-shenzhen-personal.cr.aliyuncs.com/tianteng/nginx:latest
